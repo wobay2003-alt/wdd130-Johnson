@@ -3,13 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Child 2</title>
+    <link rel="stylesheet" href="styles/styles.css"/>
+    <title>My stuff</title>
 </head>
 <body>
-    <header></header>
+    <header>
+        <nav>
+        <a href="index.html">Home</a>
+        <a href="aboutUs.html">About us</a>
+        <a href="myStuff.html">My Stuff</a>
+        </nav>
+    </header>
     <main>
         <h1>Jake Johnson - Child 2 Page</h1>
+        <button>Sort by</button>
+        <button>MM/DD/YY</button>
+        <button>Add files</button>
     </main>
-    <footer></footer>
+<footer>&copy; Company name 20XX</footer>
 </body>
 </html>
