@@ -1,0 +1,25 @@
+body {
+    background-color: #363940ff;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+}
+nav {
+    background-color: #2e485aff;
+}
+nav a {
+    color: #b9b9b9ff;
+}
+footer {
+    background-color: #2e485aff;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 25%;
+    align-self: center;
+}
+h1 {
+    color: #b9b9b9ff;
+}
